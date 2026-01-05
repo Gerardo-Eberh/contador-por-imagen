@@ -1,0 +1,7 @@
+{
+  "name": "ZooCount Pro AI",
+  "description": "Una aplicación avanzada de visión artificial para el conteo y detección individual de cabezas de animales en imágenes y video en vivo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
